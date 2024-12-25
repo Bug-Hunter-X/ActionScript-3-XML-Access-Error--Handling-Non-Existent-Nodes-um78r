@@ -1,0 +1,1 @@
+This repository demonstrates a common ActionScript 3 error related to accessing XML nodes that might not exist. The `bug.as` file shows the erroneous code that throws an error when a non-existent node is accessed. The `bugSolution.as` file provides a corrected version, demonstrating safe XML node access.
